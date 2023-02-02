@@ -1,2 +1,4 @@
-# discord-code-parts
+# YAPIM AŞAMASINDA....
 Dicord.JS Sürümlere Kod Parçaları Ve Komutlar.
+
+
